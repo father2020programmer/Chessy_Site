@@ -1,0 +1,62 @@
+
+/*HTML*/
+
+body{
+    background-color: #f5f2cd;
+    color: #965d62;
+}
+
+h1{
+    font-size: 6rem;
+    font-family: "Dancing Script", cursive;
+}
+
+h2, h3 {
+    font-size: 3rem;
+    font-family: "Imbue", serif;
+}
+
+a {
+    font-size: 1.5rem;
+}
+
+/*NavBar*/
+
+nav a{
+    color: #965d62;
+}
+
+nav a:hover{
+    color: #fff;
+}
+
+.the-navbar{
+    background-color: #c7956d;
+    color:beige;
+    padding: .75% 2.5%;
+}
+
+/*Top Section*/
+
+.section-container {
+    text-align: center;
+    padding: 5% 10%;
+}
+
+/* Middle container */
+
+.card {
+    background-color:#f5f2cd;
+    border: none;
+    padding: 5%;
+}
+
+.btn-custome {
+    background-color:  #c7956d;
+    color: #f5f2cd;
+    border-radius: 20px;
+}
+
+.btn-custome:hover {
+    color:  #965d62;
+}
